@@ -1,5 +1,5 @@
-High school student from Italy.
+High school student from Italy.<br/>
 Code in Java, Python, HTML and can learn more if needed.
 <!--
-This README.md sucks, still I have no idea on how to improve it.
+This README.md sucks, but I have no idea on how to improve it.
 -->
